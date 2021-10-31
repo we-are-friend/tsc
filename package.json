@@ -1,0 +1,15 @@
+{
+  "name": "tsc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/we-are-friend/tsc.git",
+  "author": "kitravee <kitravee.swk@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "ts-node": "^10.2.1",
+    "typescript": "^4.4.3"
+  },
+  "dependencies": {
+    "@types/node": "^16.10.1"
+  }
+}
