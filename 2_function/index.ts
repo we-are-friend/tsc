@@ -1,4 +1,4 @@
-import { getName } from './function';
+import { getName, introduce } from './function';
 
 console.log(
   '🚀 ~ file: index.ts ~ line 5 ~ getName',
@@ -7,3 +7,5 @@ console.log(
     last: 'siwatkittisuk',
   }),
 );
+
+console.log(introduce('trong', 'test', 'test'));
